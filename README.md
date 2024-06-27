@@ -74,9 +74,9 @@ This is a simple Tkinter-based To-Do List application that allows users to regis
 
 ## Screenshots
 
-![Login Screen](screenshots/login_screen.png)
-![Register Screen](screenshots/register_screen.png)
-![To-Do List](screenshots/todo_list.png)
+![Login Screen](screenshots/loginscreen.png)
+![Register Screen](screenshots/registerscreen.png)
+![To-Do List](screenshots/todolistscreen.png)
 
 ## Contributing
 
